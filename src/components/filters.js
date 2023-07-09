@@ -30,6 +30,9 @@ const FiltersStyled = styled.div`
         .action-list {
             flex-direction: column;
         }
+         input{
+            max-inline-size: 90%;
+        }
     }
 `
 
